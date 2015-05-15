@@ -1,0 +1,45 @@
+{
+  "name": "get-plane-normal",
+  "version": "1.0.0",
+  "description": "gets a plane's normal from 3 points",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "gl-vec3": "^1.0.3"
+  },
+  "devDependencies": {
+    "deepcopy": "^0.5.0",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "get",
+    "plane",
+    "from",
+    "three",
+    "3",
+    "points",
+    "normal",
+    "normalize",
+    "normals",
+    "planes",
+    "unit",
+    "vector",
+    "math"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/get-plane-normal.git"
+  },
+  "homepage": "https://github.com/mattdesl/get-plane-normal",
+  "bugs": {
+    "url": "https://github.com/mattdesl/get-plane-normal/issues"
+  }
+}
