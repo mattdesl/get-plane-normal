@@ -23,6 +23,8 @@ With three points on the same plane, determines the unit normal and stores it in
 
 Returns `out`.
 
+![an image is worth a thousand words](https://cloud.githubusercontent.com/assets/1616682/11169381/45c692c6-8b8c-11e5-8842-cf7f86c5c1de.png)
+
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/get-plane-normal/blob/master/LICENSE.md) for details.
